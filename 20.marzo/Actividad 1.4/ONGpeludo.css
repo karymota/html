@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(253, 107, 23);
+    font-family: Arial;
+}
+#menu{
+    text-align: right;
+}
+#menu ul{
+    background-color: rgb(255, 241, 227);
+    padding: 20px;
+    border-radius: 15px;
+    
+    
+    
+}
+
+#menu a{
+    color: rgb(201, 114, 34);
+    text-decoration: none;
+    padding: 20px ;
+  
+   
+}
+
+#menu a:hover{
+    background-color: orange;
+    color: rgb(90, 90, 90);
+    border-radius: 10px;
+
+}
+#principal{
+    padding: 80px;
+}
+#principal h1{
+    color: beige;
+    font-size: xx-large;
+
+}
+
+#principal h2{
+  
+}
