@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(234, 234, 234);
+}
+
+#carrusel{
+    max-width: 1200px;
+
+    margin: 0 auto;
+}
+
+#dcarteles{
+    max-width: 1200px;
+
+    margin: 0 auto;
+    padding: 40px 30px;
+    align-content: center;
+}
+#mascotas{
+    max-width: 1200px;
+    padding: 40px 30px;
+    margin: 0 auto;
+}
+
+#link {
+    text-align: right;
+    padding: 30px ;
+    color: chocolate;
+}
+#link a{
+    color: chocolate;
+}
+
+#link  a:hover{
+    color: brown;
+}
+
+
+
+
+
+
+
+
+
