@@ -34,9 +34,26 @@ body{
     color: brown;
 }
 
+#todasmascotas{
+    max-width: 1200px;
+    padding: 40px 30px;
+    margin: 0 auto;
+}
+#informacion{
 
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 40px 30px;
+}
+#allow{
+    max-width: 1200px;
+    padding: 40px 30px;
+    margin: 0 auto;
+}
 
-
+#todasmascotas h4{
+    padding: 30px 0px;
+}
 
 
 
