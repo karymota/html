@@ -46,7 +46,7 @@ body{
     padding: 40px 30px;
 }
 #allow{
-    max-width: 1200px;
+    max-width: 1000px;
     padding: 40px 30px;
     margin: 0 auto;
 }
@@ -55,9 +55,20 @@ body{
     padding: 30px 0px;
 }
 
+body{
+    background-color: rgb(255, 251, 213);
+}
 
+#allow #contacto{
 
-
+    padding: 30px 0px;
+    
+}
+#small{
+    max-width: 1000px;
+    padding: 40px 30px;
+    margin: 0 auto;
+}
 
 
 
