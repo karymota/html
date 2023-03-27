@@ -44,6 +44,8 @@ body{
     max-width: 1200px;
     margin: 0 auto;
     padding: 40px 30px;
+    font-size: large;
+    
 }
 #allow{
     max-width: 1000px;
@@ -68,6 +70,36 @@ body{
     max-width: 1000px;
     padding: 40px 30px;
     margin: 0 auto;
+}
+
+#cuerpoB {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 30px 30px;
+
+}
+
+#cuerpoB h5{
+    
+    padding: 30px 30px;
+
+}
+#phtpjavo{
+    padding: 30px;
+    max-width: 1200px;
+  margin: 0 auto;
+}
+
+
+#CuerpoC{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+#phtpjavi{
+    padding: 30px;
+    
+  margin: 0 auto;
+
 }
 
 
